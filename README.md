@@ -29,7 +29,13 @@ This project implements a **Gaze-Controlled Virtual Mouse** that moves the curso
 - Simpler architecture for experimentation and debugging.
 
 ---
+## 🔗 Model Downloads
 
+
+
+- [Download GazeNet model](https://drive.google.com/file/d/1EYciPXK06-M6cmTnxIsEgN7CxSdsZs05/view?usp=sharing)
+- [Download EfficientNet model](https://drive.google.com/file/d/1Lull97iwqNHv0TsIqBs1Qo8ogzbfMzpz/view?usp=sharing)
+- [Download Custom Gaze model](https://drive.google.com/file/d/1tPTdKGHxGaaZZuKFlG6fK2fxJn6LbMvV/view?usp=sharing)
 ## 🗃️ Dataset
 
 Images were organized into classes representing different gaze directions. A data augmentation pipeline was applied to:
